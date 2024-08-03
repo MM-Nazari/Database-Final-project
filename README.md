@@ -6,7 +6,7 @@
 - [Installation](#installation)
 
 ## Project Description
-For a detailed project description, please refer to the [Project Description PDF](./Final%20Project.pdf).
+For a detailed project description, please refer to the [Project Description PDF](./Final%20Project%20.pdf).
 
 ## IDE
 This project is developed using Microsoft SQL Server Management Studio.
