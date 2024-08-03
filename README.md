@@ -1,4 +1,4 @@
-# Signal & System HomeWorks & Projects
+# Database Design Final Project
 
 ## Table of Contents
 - [Project Description](#project-description)
@@ -6,7 +6,7 @@
 - [Installation](#installation)
 
 ## Project Description
-For a detailed project description, please refer to the [Project Description PDF](./Final%20Project/digital%20radio.pdf).
+For a detailed project description, please refer to the [Project Description PDF](./Final%20Project.pdf).
 
 ## IDE
 This project is developed using Microsoft SQL Server Management Studio.
